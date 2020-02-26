@@ -1,8 +1,10 @@
 package com.epam.taskloggers;
 import static org.junit.Assert.*;
+
 import org.junit.Test;
 public class HouseRentTest {
 
+	
 	@Test
 	public void test() {
 		HouseRent hr =new HouseRent();

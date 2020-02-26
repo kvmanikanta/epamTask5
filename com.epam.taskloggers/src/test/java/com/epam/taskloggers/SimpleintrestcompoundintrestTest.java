@@ -2,6 +2,7 @@ package com.epam.taskloggers;
 
 import static org.junit.Assert.*;
 
+
 import org.junit.Test;
 
 public class SimpleintrestcompoundintrestTest {
